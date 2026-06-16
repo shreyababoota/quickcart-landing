@@ -553,7 +553,6 @@ export default function App() {
     fontWeight: "500"
   }}
 >
-  Live deployment is in progress. Click Launch QuickCart to view the working demo.
 </p>
 
             <div className="qc-hero__tags">
