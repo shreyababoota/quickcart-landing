@@ -529,7 +529,7 @@ export default function App() {
 
             <div className="qc-hero__actions">
  <a
-  href="https://quickcart-eight-chi.vercel.app"
+  href="https://quick-cart-chi-rosy.vercel.app/"
   target="_blank"
   rel="noopener noreferrer"
   className="qc-btn qc-btn--primary"
