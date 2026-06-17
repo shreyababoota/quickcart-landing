@@ -383,7 +383,7 @@ const SCREENSHOTS = [
 const TEAM = [
   { name: "Shreya Baboota", role: "Team lead · Backend & APIs", initials: "SB", gradient: "var(--g-orange)" },
   { name: "Deepshika Singh", role: "Frontend & UX", initials: "DS", gradient: "var(--g-blue)" },
-  { name: "Vaishnavi Tripathi", role: "ML", initials: "VT", gradient: "var(--g-dark)" },
+  { name: "Vaishnavi Tripathi", role: "Recommendation Engine", initials: "VT", gradient: "var(--g-dark)" },
 ];
 
 /* ----------------------------------------------------------------------
